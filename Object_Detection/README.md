@@ -1,1 +1,1 @@
-
+Object detection is used to help the visually impaired people and to detect the obstacles and avoid them if necessary. It also gives them an idea of their surrounding. It can help them significantly in many different ways, to name a few, they can cross the road, they now know the traffic signs. We can also integrate facial recognition for them to recognize people. We can do limitless other things and add more and more to the detection system to make it better for the blind.
