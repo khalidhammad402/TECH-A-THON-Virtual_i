@@ -1,11 +1,9 @@
 TECH-A-THON
 
-Team Name : Great Dane  
-Domain : ML/AI  
-Project Name : Virtual i  
-Team Members : Satyam Pandey, Aditya Goel, Hammad Khalid 
-
 TECH-A-THON : is an event organised by ECESOC, BIT Mesra. It encourages students from colleges all over India to participate and compete in domain of ML/AI and Embedded Systems. TECH-A-THON is a whole process of first learning what you’re interested in through weekly tasks, doing interesting projects along the way and then competing with teams across India. 
+
+
+VIRTUAL 'i' 
 
 Virtual ‘i’ : acts as an eye of a blind person. We implement Object Recognition using CNN and then we use text to speech for what the camera will be recording (live) to be seen on the screen with a text box around it in which the object name would be written, and so from text to speech we can make the person hear what is in front of him. Along with this we can also add hand written text recognition which would give him freedom to read (like he can complete reading a book in audio format because of his stick) or rather listen to what is written without the help of any other person and thus he would be independent. 
 
@@ -21,7 +19,10 @@ Usability : Not only can this object detection used for the welfare of blind peo
 We intend to further work on it in future along with hardware to make it a complete and running model.
 
 
-
+Contributors :-
+1) Satyam Pandey : https://github.com/SatyamSTGR8
+2) Aditya Goel : https://github.com/goel-adii
+3) Hammad Khalid : https://github.com/khalidhammad402
 
 
 
